@@ -1,1 +1,3 @@
-<img width="661" alt="스크린샷 2023-12-26 오후 7 01 18" src="https://github.com/Begin-Vegan/.github/assets/32347874/0fc6064d-c5b8-4397-a3b8-af437d50b30f">
+<p align="center">
+  <img src="https://github.com/DEPthes/2nd-MVP-BeginVegan-Client/assets/32347874/00c7a186-eae7-4966-87ea-6e69969c5920">
+</p>
