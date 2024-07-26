@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/DEPthes/2nd-MVP-BeginVegan-Client/assets/32347874/00c7a186-eae7-4966-87ea-6e69969c5920">
+  <img src="https://github.com/user-attachments/assets/4ceea695-f05a-479a-a26b-592d562ca109">
 </p>
